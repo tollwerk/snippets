@@ -1,0 +1,27 @@
+{
+  "generator-clearphp": {
+    "run": 31,
+    "github": {
+      "ssh": "git@github.com:tollwerk/snippets.git",
+      "https": "https://github.com/tollwerk/snippets"
+    },
+    "codeclimate": "f6373808e60e75764bbc04ecbaf68ea5d6fb53138d72628d582b297c43dadf5f",
+    "scrutinizer": true,
+    "coverage": true,
+    "docs": false,
+    "apidocs": false,
+    "year": 2019,
+    "vendor": "tollwerk",
+    "project": "snippets",
+    "description": "Code snippet gallery",
+    "website": "https://snippets.tollwerk.dev",
+    "license": "MIT",
+    "stability": "stable",
+    "namespace": "Tollwerk",
+    "module": "Snippets",
+    "php": ">=7.2",
+    "authorName": "Joschi Kuphal",
+    "authorEmail": "joschi@tollwerk.de",
+    "authorWebsite": "https://tollwerk.de"
+  }
+}
